@@ -1,0 +1,18 @@
+.credentials {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+input {
+    width: 100%;
+}
+
+.signin-ctn {
+    margin: auto;
+    height: 40%;
+    width: 40%;
+}
+
+.signin-btn {
+    width: 100%;
+}
